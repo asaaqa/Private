@@ -11,12 +11,6 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "formation": {
-    "Private": {
-      "quantity": 1,
-      "size": "Private"
-    }
-  },
   "addons": [
       {
          "options": {
