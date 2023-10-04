@@ -14,7 +14,7 @@
   "formation": {
     "Private": {
       "quantity": 1,
-      "size": "Production"
+      "size": "Private"
     }
   },
   "addons": [
