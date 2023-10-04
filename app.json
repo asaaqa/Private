@@ -12,9 +12,9 @@
     "url": "heroku/python"
   }],
   "formation": {
-    "worker": {
+    "Private": {
       "quantity": 1,
-      "size": "free"
+      "size": "Production"
     }
   },
   "addons": [
